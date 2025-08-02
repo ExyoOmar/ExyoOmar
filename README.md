@@ -5,4 +5,4 @@
 🛠️ Tools: HTML, CSS, JavaScript, Python, Assembly, Lua
 🌍 Based in Palestine  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ExyoOmar&show_icons=true&theme=radical)
